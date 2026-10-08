@@ -8,3 +8,6 @@ This is a data analysis project for Adenture Works store creating an interactive
 - Power query --> data transformation and cleaning
 - Power Pivot --> Data Modelling
 - Dax --> Calculated Measures , Dynamic Visuals 
+
+
+https://github.com/abdoragab15/Adventure_Works-/blob/main/Screenshot%202026-10-08%20223650.png
